@@ -32,8 +32,8 @@ Plan your dream trip with AI! This interactive Streamlit application provides pe
 
 **Option A: Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-travel-planner.git
-cd ai-travel-planner
+git clone https://github.com/yourusername/TravelAssistant-Agent.git
+cd TravelAssistant-Agent
 ```
 
 **Option B: Download ZIP**
@@ -43,14 +43,14 @@ Download and extract the project files to your desired directory.
 
 **Ubuntu/Linux/macOS:**
 ```bash
-python3 -m venv travel_planner_env
-source travel_planner_env/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 **Windows:**
 ```bash
-python -m venv travel_planner_env
-travel_planner_env\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
@@ -161,7 +161,7 @@ See `requirements.txt` for the complete list with exact versions.
 ## 🗂 Project Structure
 
 ```
-ai-travel-planner/
+TravelAssistant-Agent/
 │
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
@@ -203,9 +203,9 @@ You can modify the following in the code:
 ```bash
 # Make sure Streamlit is installed and your virtual environment is active
 pip install streamlit
-source travel_planner_env/bin/activate  # Linux/macOS
+source venv/bin/activate  # Linux/macOS
 # or
-travel_planner_env\Scripts\activate   # Windows
+venv\Scripts\activate   # Windows
 ```
 
 **API Key Errors**
@@ -341,8 +341,8 @@ SOFTWARE.
 Need help? Here are your options:
 
 - **📖 Documentation:** Check this README first
-- **🐛 Issues:** [Open an issue on GitHub](https://github.com/yourusername/ai-travel-planner/issues)
-- **💬 Discussions:** [Join our discussions](https://github.com/yourusername/ai-travel-planner/discussions)
+- **🐛 Issues:** [Open an issue on GitHub](https://github.com/yourusername/TravelAssistant-Agent/issues)
+- **💬 Discussions:** [Join our discussions](https://github.com/yourusername/TravelAssistant-Agent/discussions)
 - **📧 Email:** contact@yourproject.com
 
 ---
