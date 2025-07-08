@@ -32,7 +32,7 @@ Plan your dream trip with AI! This interactive Streamlit application provides pe
 
 **Option A: Clone the repository**
 ```bash
-git clone https://github.com/yourusername/TravelAssistant-Agent.git
+git clone https://github.com/thesanjai/TravelAssistant-Agent.git
 cd TravelAssistant-Agent
 ```
 
